@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EventObject", "EventObject\EventObject.vcxproj", "{F2FC4DDF-AA8A-4088-B1D6-279B8C028A2C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MutexObject", "MutexObject\MutexObject.vcxproj", "{0657ECFF-0131-4A45-8843-50D1B2F21678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F2FC4DDF-AA8A-4088-B1D6-279B8C028A2C}.Release|x64.Build.0 = Release|x64
 		{F2FC4DDF-AA8A-4088-B1D6-279B8C028A2C}.Release|x86.ActiveCfg = Release|Win32
 		{F2FC4DDF-AA8A-4088-B1D6-279B8C028A2C}.Release|x86.Build.0 = Release|Win32
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Debug|x64.ActiveCfg = Debug|x64
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Debug|x64.Build.0 = Debug|x64
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Debug|x86.ActiveCfg = Debug|Win32
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Debug|x86.Build.0 = Debug|Win32
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Release|x64.ActiveCfg = Release|x64
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Release|x64.Build.0 = Release|x64
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Release|x86.ActiveCfg = Release|Win32
+		{0657ECFF-0131-4A45-8843-50D1B2F21678}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
